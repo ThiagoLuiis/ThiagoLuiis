@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Me chamo Thiago Luis, tenho 18 anos e atualmente estou cursando o primeiro período de Ciências da Computação. 
+- Me chamo Thiago Luis, tenho 18 anos e atualmente estou cursando o terceiro período de Ciências da Computação. 
 - Estou começando a aprender Java.
 
 <div> 
