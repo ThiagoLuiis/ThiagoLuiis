@@ -1,7 +1,8 @@
 ### Olá 👋
 
-- Me chamo Thiago Luis, tenho 18 anos e atualmente estou cursando o terceiro período de Ciências da Computação. 
-- Estou começando a aprender Java.
+- Me chamo Thiago Luis, tenho 18 anos e atualmente estou cursando o 3º período de Ciências da Computação. 
+- Estou começanco minha jornada
+- Conhecimento em SQL SERVER 
 
 <div> 
   <a href="https://instagram.com/Thiago.las" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
