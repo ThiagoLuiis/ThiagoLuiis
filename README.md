@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Me chamo Thiago Luis, tenho 18 anos e atualmente estou cursando o 3º período de Ciências da Computação. 
+- Me chamo Thiago Luis, tenho 20 anos e atualmente estou cursando o 5º período de Ciências da Computação. 
 - Estou começanco minha jornada
 - Conhecimento em SQL SERVER 
 
