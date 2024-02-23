@@ -1,8 +1,9 @@
 ### Olá 👋
 
-- Me chamo Thiago Luis, tenho 20 anos e atualmente estou cursando o 5º período de Ciências da Computação. 
+- Me chamo Thiago Luis, tenho 21 anos e atualmente estou cursando o 6º período de Ciências da Computação. 
 - Estou começanco minha jornada
-- Conhecimento em SQL SERVER 
+- Conhecimento em SQL SERVER
+- Aprendiz de Java e Python
 
 <div> 
   <a href="https://instagram.com/Thiago.las" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
