@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-Sou um profissional de tecnologia apaixonado por dados e pela forma como eles podem ser transformados em insights para otimizar processos e gerar valor. [cite_start]Com formação em Ciência da Computação [cite: 3] e experiência prática em ambientes corporativos, meu foco está em análise de dados, desenvolvimento com SQL e automação.
+Sou um profissional de tecnologia apaixonado por dados e pela forma como eles podem ser transformados em insights para otimizar processos e gerar valor. Com formação em Ciência da Computação e experiência prática em ambientes corporativos, meu foco está em análise de dados, desenvolvimento com SQL e automação.
 
 ---
 
@@ -13,9 +13,9 @@ Sou um profissional de tecnologia apaixonado por dados e pela forma como eles po
 
 Minha experiência prática se concentra em três áreas principais:
 
-* [cite_start]**📊 Análise de Dados e Business Intelligence:** Desenvolvimento de dashboards a partir de consultas complexas em SQL Server, fornecendo insights estratégicos que melhoraram a visibilidade de indicadores de performance e resultados da operação para a gestão[cite: 6].
-* [cite_start]**⚙️ Automação e Otimização de Processos:** Implementação de integrações via API (REST/SOAP) entre sistemas ERP e plataformas externas, automatizando o fluxo de dados e reduzindo o tempo gasto em processos manuais[cite: 7].
-* [cite_start]**💻 Suporte Técnico Especializado (Nível 2):** Resolução de incidentes complexos de software e sistema ERP, atuando diretamente no banco de dados SQL para diagnóstico e correção de falhas[cite: 8].
+* **📊 Análise de Dados e Business Intelligence:** Desenvolvimento de dashboards a partir de consultas complexas em SQL Server, fornecendo insights estratégicos que melhoraram a visibilidade de indicadores de performance e resultados da operação para a gestão.
+* **⚙️ Automação e Otimização de Processos:** Implementação de integrações via API (REST/SOAP) entre sistemas ERP e plataformas externas, automatizando o fluxo de dados e reduzindo o tempo gasto em processos manuais.
+* **💻 Suporte Técnico Especializado (Nível 2):** Resolução de incidentes complexos de software e sistema ERP, atuando diretamente no banco de dados SQL para diagnóstico e correção de falhas.
 
 ---
 
@@ -35,9 +35,9 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### 🎓 Formação e Certificados
 
-* [cite_start]**Bacharelado em Ciência da Computação** - CENTRO UNIVERSITÁRIO UNA CONTAGEM (Previsão de Conclusão: 1º Semestre de 2025)[cite: 3].
-* [cite_start]**Curso Técnico em Informática** - SENAC MINAS (Concluído em 2021)[cite: 3].
-* [cite_start]**Certificações:** Cisco Certified Networking Essentials, Cisco Cybersecurity Essentials[cite: 3].
+* **Bacharelado em Ciência da Computação** - CENTRO UNIVERSITÁRIO UNA CONTAGEM (Previsão de Conclusão: 1º Semestre de 2025).
+* **Curso Técnico em Informática** - SENAC MINAS (Concluído em 2021).
+* **Certificações:** Cisco Certified Networking Essentials, Cisco Cybersecurity Essentials.
 
 ---
 
