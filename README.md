@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### 🎓 Formação e Certificados
 
-* **Bacharelado em Ciência da Computação** - CENTRO UNIVERSITÁRIO UNA CONTAGEM (Previsão de Conclusão: 1º Semestre de 2025).
+* **Bacharelado em Ciência da Computação** - CENTRO UNIVERSITÁRIO UNA CONTAGEM (Conclusão: 1º Semestre de 2025).
 * **Curso Técnico em Informática** - SENAC MINAS (Concluído em 2021).
 * **Certificações:** Cisco Certified Networking Essentials, Cisco Cybersecurity Essentials.
 
