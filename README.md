@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Me chamo Thiago Luis, tenho 22 anos e atualmente estou cursando o 8º período de Ciências da Computação. 
+- Me chamo Thiago Luis, tenho 22 anos e recentemente concluir minha graduação em Ciências da Computação. 
 - Conhecimento em SQL SERVER
   
 
