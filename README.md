@@ -1,10 +1,5 @@
 # Olá, eu sou o Thiago Luis De Assis Silva 👋
 
-<p>
-  <a href="mailto:thiago.luis4656@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 Sou um profissional de tecnologia apaixonado por dados e pela forma como eles podem ser transformados em insights para otimizar processos e gerar valor. Com formação em Ciência da Computação e experiência prática em ambientes corporativos, meu foco está em análise de dados, desenvolvimento com SQL e automação.
 
 ---
