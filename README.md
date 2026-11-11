@@ -30,7 +30,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### 🎓 Formação e Certificados
 
-* **Bacharelado em Ciência da Computação** - CENTRO UNIVERSITÁRIO UNA CONTAGEM (Conclusão: 1º Semestre de 2025).
+* **Pós-Graduação em Ciência de dados e Big Data** - Puc Minas (Conclusão: 2° Semestre de 2026)
+* **Bacharelado em Ciência da Computação** - CENTRO UNIVERSITÁRIO UNA CONTAGEM (concluído: 1º Semestre de 2025).
 * **Curso Técnico em Informática** - SENAC MINAS (Concluído em 2021).
 * **Certificações:** Cisco Certified Networking Essentials, Cisco Cybersecurity Essentials.
 
